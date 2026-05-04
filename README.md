@@ -28,10 +28,6 @@
 | [Networks & Network Security](https://coursera.org/share/4c856e4fbcae322f11f0c3901a6d79c8) | Google |
 | IT Support Certificate | Udemy |
 | IT & Cybersecurity Certificate | Hagital Consulting |
-
-### 🔄 In Progress
-| Certificate | Issuer |
-|---|---|
 | [CompTIA Security+ Training](https://drive.google.com/file/d/1J2_PyoU-kliVtkWhYHXEImRxhy8U2Csm/view?usp=sharing) | New Horizons Nigeria |
 
 ### 📋 Queued
