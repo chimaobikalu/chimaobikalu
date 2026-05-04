@@ -24,15 +24,15 @@
 ### ✅ Earned
 | Certificate | Issuer |
 |---|---|
-| Foundations of Cybersecurity | Google |
-| Networks & Network Security | Google |
+| [Foundations of Cybersecurity](https://coursera.org/share/4391c87694e8388027914a4fbb0cfcdd) | Google |
+| [Networks & Network Security](https://coursera.org/share/4c856e4fbcae322f11f0c3901a6d79c8) | Google |
 | IT Support Certificate | Udemy |
 | IT & Cybersecurity Certificate | Hagital Consulting |
 
 ### 🔄 In Progress
 | Certificate | Issuer |
 |---|---|
-| CompTIA Security+ Training | New Horizons Nigeria |
+| [CompTIA Security+ Training](https://drive.google.com/file/d/1J2_PyoU-kliVtkWhYHXEImRxhy8U2Csm/view?usp=sharing) | New Horizons Nigeria |
 
 ### 📋 Queued
 | Certificate | Issuer |
