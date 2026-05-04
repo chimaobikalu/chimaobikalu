@@ -3,7 +3,8 @@
 
 ---
 
-> **About This Portfolio**
+> **About This Portfolio:**
+> 
 > These projects simulate real-world IT workflows — from enterprise helpdesk operations and system monitoring to backup automation and disaster recovery planning. Each lab demonstrates practical skills a sysadmin and IT support specialist needs in a professional environment.
 
 ---
@@ -31,8 +32,5 @@
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B_Training-FF0000?style=flat-square&logo=comptia&logoColor=white)
 
-**Queued**
-
-![A+](https://img.shields.io/badge/CompTIA-A%2B-queued-888888?style=flat-square)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-queued-888888?style=flat-square)
 ![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-queued-888888?style=flat-square)
