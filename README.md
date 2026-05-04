@@ -1,7 +1,7 @@
 <div align="center">
 
 # Offor Chimaobi Kalu
-*IT Support Specialist · Aspiring Systems Administrator · Nigeria*
+*IT Support Specialist · Aspiring Systems Administrator*
 
 </div>
 
