@@ -21,16 +21,22 @@
 
 ## 02 · Certifications
 
-**Earned**
+### ✅ Earned
+| Certificate | Issuer |
+|---|---|
+| Foundations of Cybersecurity | Google |
+| Networks & Network Security | Google |
+| IT Support Certificate | Udemy |
+| IT & Cybersecurity Certificate | Hagital Consulting |
 
-![Google Cybersecurity](https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=flat-square&logo=google)
-![Google Networks](https://img.shields.io/badge/Google-Networks_%26_Network_Security-4285F4?style=flat-square&logo=google)
-![Udemy](https://img.shields.io/badge/Udemy-IT_Support_Certificate-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![Hagital](https://img.shields.io/badge/Hagital_Consulting-IT_%26_Cybersecurity-2ea44f?style=flat-square)
+### 🔄 In Progress
+| Certificate | Issuer |
+|---|---|
+| CompTIA Security+ Training | New Horizons Nigeria |
 
-**In Progress**
-
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B_Training-FF0000?style=flat-square&logo=comptia&logoColor=white)
-
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-queued-888888?style=flat-square)
-![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-queued-888888?style=flat-square)
+### 📋 Queued
+| Certificate | Issuer |
+|---|---|
+| CompTIA A+ | CompTIA |
+| CompTIA Network+ | CompTIA |
+| Microsoft AZ-900 | Microsoft |
