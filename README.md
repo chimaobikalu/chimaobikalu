@@ -1,7 +1,7 @@
 <div align="center">
 
 # Offor Chimaobi Kalu
-*IT Support Specialist · Aspiring Systems Administrator*
+*IT Support Specialist & Systems Administrator*
 
 </div>
 
@@ -18,8 +18,8 @@
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [Enterprise-IT-Infrastructure](https://github.com/chimaobikalu/enterprise-it) | Simulated enterprise IT environment with AD, user management, and group policies | AD · Windows Server · PowerShell | ✅ Complete |
-| [Helpdesk-Monitoring-System](https://github.com/chimaobikalu/helpdesk-monitoring-system) | Ticket management and real-time system monitoring dashboard | Python · osTicket · Bash | ✅ Complete |
-| [Backup-Disaster-Recovery](https://github.com/chimaobikalu/backup-disaster-recovery) | Automated backup solution with tested DR runbooks and failover procedures | Bash · rsync · Linux | ✅ Complete |
+| [Helpdesk-Monitoring-System](https://github.com/chimaobikalu/helpdesk-monitoring-system) | Ticket management and real-time system monitoring dashboard | Python · osTicket · Bash |  🕑In Progress |
+| [Backup-Disaster-Recovery](https://github.com/chimaobikalu/backup-disaster-recovery) | Automated backup solution with tested DR runbooks and failover procedures | Bash · rsync · Linux | 🕑 In Progress |
 
 ---
 
