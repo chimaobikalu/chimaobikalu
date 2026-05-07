@@ -15,11 +15,11 @@
 
 ## 01 · IT Support & Sysadmin Projects
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [Enterprise-IT-Infrastructure](https://github.com/chimaobikalu/enterprise-it) | Simulated enterprise IT environment with AD, user management, and group policies | AD · Windows Server · PowerShell | ✅ Complete |
-| [Helpdesk-Monitoring-System](https://github.com/chimaobikalu/helpdesk-monitoring-system) | Ticket management and real-time system monitoring dashboard | Python · osTicket · Bash |  🕑In Progress |
-| [Backup-Disaster-Recovery](https://github.com/chimaobikalu/backup-disaster-recovery) | Automated backup solution with tested DR runbooks and failover procedures | Bash · rsync · Linux | 🕑 In Progress |
+| Project | Proof | Description | Stack | Status |
+|---|---|---|---|---|
+| [Enterprise-IT-Infrastructure](https://github.com/chimaobikalu/enterprise-it) | Video & Screenshots | Simulated enterprise IT environment with AD, user management, and group policies | AD · Windows Server · PowerShell | ✅ Complete |
+| [Helpdesk-Monitoring-System](https://github.com/chimaobikalu/helpdesk-monitoring-system) | Video & Screenshots | Ticket management and real-time system monitoring dashboard | Python · osTicket · Bash | 🕑 In Progress |
+| [Backup-Disaster-Recovery](https://github.com/chimaobikalu/backup-disaster-recovery) | Video & Screenshots | Automated backup solution with tested DR runbooks and failover procedures | Bash · rsync · Linux | 🕑 In Progress |
 
 ---
 
